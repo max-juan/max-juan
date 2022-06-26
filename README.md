@@ -1,8 +1,9 @@
-### Hello! I am Max!! 👋
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/108160244/175826095-732da96e-2dc7-4226-bce2-8c75821632cc.jpeg" width="700px" />
 </div>
+
+
+### Hello! I am Max!! 👋
 
 - 🎓I'm currently a bachelor's degree student in actuarial science at FEA-USP.
 - 👾I'm a member of FEA.Dev.
