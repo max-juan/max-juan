@@ -1,5 +1,6 @@
 ### Hello! I am Max!! 👋
 
+<img src= "capagithub.jpeg>
 
 - 🎓I'm currently a bachelor's degree student in actuarial science at FEA-USP.
 - 👾I'm a member of FEA.Dev.
